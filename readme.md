@@ -1,7 +1,7 @@
 ## Hi, I am GasFurr
 I love Zig, and Rust.
  Currently working on B3T: "Better Than (your) Todo" <br>
- My cli todo-list that parses tasks from code comments.
+ My cli todo-list that parses tasks from code comments written in Zig
 
 fun fact:
 I am beginner low-level dev, i am ambitious and stupid</p>
