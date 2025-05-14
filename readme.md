@@ -8,7 +8,7 @@ I am beginner low-level dev, i am ambitious and stupid</p>
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=gasfurr alt=gasfurr /> </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gasfurr&layout=compact)](https://github.com/gasfurr/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gasfurr&layout=compact)](https://github.com/gasfurr/)
 
 # Tech Stack:
 ![Zig](https://img.shields.io/badge/Zig-%23F7A41D.svg?style=for-the-badge&logo=zig&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
