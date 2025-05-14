@@ -1,5 +1,5 @@
 ## Hi, I am GasFurr
-I love Zig, and Rust.
+I love Zig and C.
  Currently working on B3T: "Better Than (your) Todo" <br>
  My cli todo-list that parses tasks from code comments written in Zig
 
