@@ -1,15 +1,51 @@
-## Hi, I am GasFurr
-I love Zig and C.
- Currently working on B3T: "Better Than (your) Todo" <br>
- My cli todo-list that parses tasks from code comments written in Zig
+<h2 align="left">Hi, i am GasFurr. My projects say everything about me.</h2>
 
-fun fact:
-I am beginner low-level dev, i am ambitious and stupid</p>
-## Some of my Github Stats
-<p align=left> <img src=https://komarev.com/ghpvc/?username=gasfurr alt=gasfurr /> </p>
+###
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=gasfurr&show_icons=true&locale=en&layout=compact&theme=chartreuse-light" alt="ovi" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gasfurr&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gasfurr&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-# Tech Stack:
-![Zig](https://img.shields.io/badge/Zig-%23F7A41D.svg?style=for-the-badge&logo=zig&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+###
 
+<img align="right" height="150" src="https://gcdnb.pbrd.co/images/vgATaDSBhRDZ.png?o=1"  />
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=zig" height="30" alt="zig logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=linux" height="30" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=bash" height="30" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=c" height="30" alt="c logo"  />
+</div>
+
+###
+
+<div align="left">
+  <a href="https://www.youtube.com/channel/@gasfurr" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  </a>
+  <a href="https://www.twitch.tv/gasfurr" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  </a>
+  <a href="gasfurri@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://t.me/gasfurrk" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
+  </a>
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/gasfurr/gasfurr/output/snake.svg" alt="Snake animation" />
+
+###
