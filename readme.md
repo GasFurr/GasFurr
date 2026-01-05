@@ -24,9 +24,9 @@ Furry coder from russia, OS developer, system architect.
 
 ## Current Projects
 
-### [ArchiOS](https://github.com/GasFurr/ARCHI)
+### [ArchyOS](https://github.com/GasFurr/ARCHI)
 ```md
-# 'ArchiOS' - The Desktop-Pure Computing Environment. A hobby OS written in Zig, built from the metal up.
+# 'ArchyOS' - The Desktop-Pure Computing Environment. A hobby OS written in Zig, built from the metal up.
 ```
 
 
@@ -45,5 +45,5 @@ Furry coder from russia, OS developer, system architect.
 </div>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&pause=500&color=FF79C6&width=435&repeat=true&lines=Zig+enjoyer,+ArchiOS+developer.;I+just+want+things+to+be+beautiful." alt="Typing SVG">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&pause=500&color=FF79C6&width=435&repeat=true&lines=Zig+enjoyer,+ArchyOS+developer.;I+just+want+things+to+be+beautiful." alt="Typing SVG">
 </div>
